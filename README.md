@@ -36,7 +36,7 @@ To load a registered dependency, you can use `Dlopen.loadDependencies` which tak
      * @param {Array|String} dependencies  The name of names any dependencies this library depends on
      * @param {Function} init              A function to call to initialize the library, once the scripts are loaded. 
      */
-    ```
+```
 
 # License
 
