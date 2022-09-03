@@ -24,6 +24,11 @@
             "lang": "fr",
             "name": "Français",
             "path": "lang/fr.json"
+        },
+        {
+            "lang": "fi",
+            "name": "Suomi",
+            "path": "lang/fi.json"
         }
     ],
     "url": "https://github.com/ForgeVTT/fvtt-module-dlopen",
