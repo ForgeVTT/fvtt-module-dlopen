@@ -1,0 +1,4 @@
+{
+    "DLOPEN.UseCache": "Tallenna kaikki riippuvuudet paikalliseen välimuistiin offline-käyttöä varten",
+    "DLOPEN.UseCacheHint": "Muiden dlopen-moduulia käyttävien moduulien ja Internet-yhteyden on oltava käytössä, jotta alustava tallennus välimuistiin voi tapahtua."
+}

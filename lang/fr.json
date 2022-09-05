@@ -1,0 +1,4 @@
+{
+    "DLOPEN.UseCacheHint": "Les autres modules utilisant dlopen doivent être activés avec une connexion internet active pour que la mise en cache initiale ait lieu.",
+    "DLOPEN.UseCache": "Mettre localement en cache toutes les dépendances pour une utilisation hors ligne"
+}
