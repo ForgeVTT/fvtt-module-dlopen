@@ -1,1 +1,4 @@
-{}
+{
+    "DLOPEN.UseCache": "Przechowuj wszystkie zależności lokalnie do użytku offline",
+    "DLOPEN.UseCacheHint": "Pozostałe moduły używające dlopen muszą być włączone z aktywnym połączeniem internetowym, aby nastąpiło początkowe buforowanie."
+}
