@@ -3,7 +3,7 @@
     "id": "dlopen",
     "title": "dlopen",
     "description": "A library module contributed by The Forge for dynamically loading library dependencies into Foundry upon use.",
-    "version": "1.0",
+    "version": "1.1",
     "authors": [
         {
             "name": "KaKaRoTo (The Forge)",
@@ -37,7 +37,7 @@
     ],
     "url": "https://github.com/ForgeVTT/fvtt-module-dlopen",
     "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json",
-    "download": "https://github.com/ForgeVTT/fvtt-module-dlopen/archive/v1.0.zip",
+    "download": "https://github.com/ForgeVTT/fvtt-module-dlopen/archive/v1.1.zip",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "13",
     "compatibility": {
