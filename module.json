@@ -9,9 +9,7 @@
             "url": "https://forge-vtt.com"
         }
     ],
-    "scripts": [
-        "./dlopen.js"
-    ],
+    "scripts": ["./dlopen.js"],
     "styles": [],
     "packs": [],
     "languages": [
@@ -29,6 +27,11 @@
             "lang": "fi",
             "name": "Suomi",
             "path": "lang/fi.json"
+        },
+        {
+            "lang": "pl",
+            "name": "Polski",
+            "path": "lang/pl.json"
         }
     ],
     "url": "https://github.com/ForgeVTT/fvtt-module-dlopen",
