@@ -9,9 +9,7 @@
             "url": "https://forge-vtt.com"
         }
     ],
-    "scripts": [
-        "./dlopen.js"
-    ],
+    "scripts": ["./dlopen.js"],
     "styles": [],
     "packs": [],
     "languages": [
@@ -32,7 +30,7 @@
         },
         {
             "lang": "pl",
-            "name": "polski",
+            "name": "Polski",
             "path": "lang/pl.json"
         }
     ],
